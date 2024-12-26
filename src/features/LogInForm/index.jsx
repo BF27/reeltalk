@@ -2,10 +2,8 @@ import { Box, Container } from "@mui/material";
 
 function LoginForm() {
   return (
-    <Container>
-      <Box>
-        
-      </Box>
+    <Container sx={{ background: "#4A5568" }}>
+      <Box sx={{ background: "primary.main" }}>aslkngasdlkfasdf</Box>
     </Container>
   );
 }
