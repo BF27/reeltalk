@@ -26,7 +26,7 @@ function LoginForm() {
         >
           Please Log In
         </Typography>
-        <TextField fullWidth label="Email or Username" />
+        <TextField fullWidth label="Email address" />
         <TextField fullWidth label="Password" />
         <Button variant="outlined">Log In</Button>
       </Box>
